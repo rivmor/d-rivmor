@@ -1,5 +1,5 @@
 - 👋 Hi, I’m David (@rivmor)
-- 💎 I’m Ruby on Rails FullStack Developer
+- 💎 I’m a Ruby on Rails FullStack Developer
 - 👀 I’m  starting to work with React too
 - 💞️ I’m looking to collaborate on Ruby on Rails app
 - 📫 How to reach me: dev.david.rivmor@gmail.com
